@@ -1,0 +1,6 @@
+framework module EIMSDK {
+  umbrella header "EIMSDK.h"
+
+  export *
+  module * { export * }
+}
